@@ -1,4 +1,4 @@
-[!Header](https://github.com/KatrinElis/KatrinElis/blob/main/assets/alien_cat_UFO.jpg)
+[![Header](https://github.com/KatrinElis/KatrinElis/blob/main/assets/alien_cat_UFO.jpg)
 
 About me
 
